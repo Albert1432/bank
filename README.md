@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+        <link rel='stylesheet' href="style.css">
+        <title>Первый урок</title>
+          
+    </head>
+    <body>
+       <img src= "global.28652.acentoprodimg.5a34bea9-b9ac-4531-9ba4-7a9a8afb1179.jpg" alt='Извините, картинка не загрузилась'>
+        <center><h4 class='title'>Привет, это банк на сервер в майнкрафт!</h4></center>
+        <p><h4>Заходи на наш сервер!</h4><p>
+        <div>Ник 1 0 алмазов</div>
+        <div>Ник 2 0 алмазов</div>
+        <div>Ник 3 0 алмазов</div>
+        <div>Ник 4 0 алмазов</div>
+        <div>Ник 5 0 алмазов</div>
+        <div>Ник 6 0 алмазов</div>
+    </body>
+</html>
